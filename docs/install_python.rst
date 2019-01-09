@@ -15,7 +15,8 @@ Execute all the commands below as root either by temporarily logging in as root 
 
         $yum install -y wget
 
-- Download, Compile and Install Python
+Download, Compile and Install Python
+-------------------------------------
 
 .. code-block:: bash
 
@@ -32,7 +33,8 @@ Execute all the commands below as root either by temporarily logging in as root 
         $make && make altinstall
 
 
-- Install/Upgrade pip,Setuptools and wheel
+Install/Upgrade pip,Setuptools and wheel
+-----------------------------------------
 
 Each Python interpreter on your system needs its own install of pip, setuptools and wheel. The easiest way to install or upgrade these packages is by using the get-pip.py script.
 
