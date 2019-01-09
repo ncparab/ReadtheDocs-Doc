@@ -66,3 +66,9 @@ Install and Clone the repository somewhere on your disk and enter to the reposit
 - Visit http://127.0.0.1:8000/ in your browser to see how it looks; you can use the admin interface via http://127.0.0.1:8000/admin (logging in with the superuser account you just created).
 
 - After registering with the site (or creating yourself a superuser account), you will be able to log in and view the dashboard.
+
+
+.. image:: 1.PNG
+  :width:700px
+  :length:500px
+  :alt: alternate text
