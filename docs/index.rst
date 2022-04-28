@@ -36,6 +36,6 @@ Additionally Read the Docs depends on:
 .. toctree::
    :maxdepth: 2
 
-   Install_git
-   install_python
-   install_readthedocs
+   docs/Install_git
+   docs/install_python
+   docs/install_readthedocs
